@@ -77,44 +77,9 @@ public class Calculator {
                 break;
             case "No":
                 System.exit(0);
-//            default:
-//                continuation();
         }
     }
-
 }
 
-
-//    public static boolean is_Valid(double a, double b, double c) {
-//        if ((a + b) > c && (b + c) > a && (a + c) > b)
-//            return true;
-//        else return false;
-//    }
-
-//    public static double area_triangle(double side1, double side2, double side3) {
-//        double area = 0;
-//        double s = (side1 + side2 + side3)/2;
-//        area = Math.sqrt(s*(s - side1)*(s - side2)*(s - side3));
-//        return area;
-//    }
-//}
-//    public void anotherOneNumber(){
-//        int x = 8;
-//        switch (x){
-//            case 5:
-//            case 8:
-//            case 9:
-//                System.out.println("5");
-//                break;
-//            case 11:
-//                System.out.println("11");
-//                break;
-//            case 10:
-//                System.out.println("10");
-//                break;
-//            default:
-//                System.out.println("Here");
-//        }
-//    }
 
 
